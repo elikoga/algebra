@@ -1,0 +1,12 @@
+[package]
+name = "algebra"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+alga = "0.9.3"
+alga_derive = "0.9.2"
+approx = "0.3.2"
+quickcheck = "1.0.3"
